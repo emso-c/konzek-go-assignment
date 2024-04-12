@@ -1,0 +1,11 @@
+.dockerignore
+.gitignore
+
+logs/*
+.!logs/.gitkeep
+
+bin
+*_test.go
+
+coverage.html
+coverage.out

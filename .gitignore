@@ -1,0 +1,8 @@
+app/logs/*
+!app/logs/.gitkeep
+app/.env
+
+app/coverage.html
+app/coverage.out
+
+db/data/*
